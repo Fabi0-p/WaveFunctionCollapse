@@ -1,0 +1,4 @@
+MATRIZ.txt
+bin/*
+obj/*
+.vscode/*
