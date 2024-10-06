@@ -1,0 +1,30 @@
+                            ULRD
+codigo ascii 118 = v = b00001000 = 8
+codigo ascii 62  = > = b00000100 = 4
+codigo ascii 60  = < = b00000010 = 2
+codigo ascii 94  = ^ = b00000001 = 1
+codigo ascii 32  =   = b00010000 = 16 // Desconocido 
+codigo ascii 32  =   = b00000000 = 0
+codigo ascii 179 = │ = b00001001 = 9
+codigo ascii 180 = ┤ = b00001101 = 13
+codigo ascii 191 = ┐ = b00000101 = 5
+codigo ascii 192 = └ = b00001010 = 10
+codigo ascii 193 = ┴ = b00001110 = 14
+codigo ascii 194 = ┬ = b00000111 = 7
+codigo ascii 195 = ├ = b00001011 = 11
+codigo ascii 196 = ─ = b00000110 = 6
+codigo ascii 197 = ┼ = b00001111 = 15
+codigo ascii 217 = ┘ = b00001100 = 12
+codigo ascii 218 = ┌ = b00000011 = 3
+
+
+DIR_U   0b00001000 - 8
+DIR_L   0b00000100 - 4
+DIR_R   0b00000010 - 2
+DIR_D   0b00000001 - 1
+DIR_ALL 0b00001111 - 
+DIR_DES 0b00010000 - 
+
+ 1     U
+2?3 = L?R
+ 4     D

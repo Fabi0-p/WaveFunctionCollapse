@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726537365 source:c:\users\laboratorios.unlmlab\desktop\fabio_prueba_wfc\wfc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
