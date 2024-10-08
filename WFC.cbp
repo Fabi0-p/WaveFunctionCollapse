@@ -31,6 +31,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Fragmento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Fragmento.h" />
+		<Unit filename="Imagen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Imagen.h" />
+		<Unit filename="Vector.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Vector.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

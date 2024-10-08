@@ -4,3 +4,40 @@
 	<stdlib.h>
 	<time.h>
 
+1728348503 source:e:\documentos\unlam win\2024\tópicos de programación\intento2\programas\fabio_prueba_wfc\wavefunctioncollapse\fragmento.c
+	"Fragmento.h"
+	"Imagen.h"
+
+1728343729 e:\documentos\unlam win\2024\tópicos de programación\intento2\programas\fabio_prueba_wfc\wavefunctioncollapse\fragmento.h
+	"Imagen.h"
+
+1728344600 e:\documentos\unlam win\2024\tópicos de programación\intento2\programas\fabio_prueba_wfc\wavefunctioncollapse\imagen.h
+	<stdbool.h>
+
+1728343003 source:e:\documentos\unlam win\2024\tópicos de programación\intento2\programas\fabio_prueba_wfc\wavefunctioncollapse\imagen.c
+	"Imagen.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1728351231 source:e:\documentos\unlam win\2024\tópicos de programación\intento2\programas\fabio_prueba_wfc\wavefunctioncollapse\vector.c
+	"Vector.h"
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+
+1728351268 e:\documentos\unlam win\2024\tópicos de programación\intento2\programas\fabio_prueba_wfc\wavefunctioncollapse\vector.h
+	<stdbool.h>
+	<stdlib.h>
+
+1728351365 source:e:\documentos\unlam win\2024\tópicos de programación\intento2\programas\fabio_prueba_wfc\wavefunctioncollapse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Imagen.h"
+	"Vector.h"
+	"Fragmento.h"
+
